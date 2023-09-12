@@ -12,7 +12,7 @@ global.APIKeys = {
 
 global.namabot = "Bot Store"
 global.namaowner = "Zeeoneofc"
-global.packname = namabot
+global.packname = winds
 global.author = namaowner
 global.myweb = "https://s.id/zeeoneofc"
 global.footer_text = "© " + namabot
